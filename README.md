@@ -1,1 +1,4 @@
-https://github.com/Dimasts/DIMAS-PHOTO-BLKK/tree/master/photo-gallery-img-template-added-lightBox/horizontal-img-scroll-website/img
+Dimas Ts
+<p align="center">
+<img src="https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
