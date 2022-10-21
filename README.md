@@ -9,3 +9,7 @@ Dimas Ts
 ![photo](./Foto/city-4.jpg)
 ![photo](./Foto/city-5.jpg)
 ![photo](./Foto/nyc-hero-img.jpg)
+
+## License
+Copyright (c) 2022 Dimas Ts .)
+
