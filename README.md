@@ -1,7 +1,9 @@
 Dimas Ts
-<p align="center">
-<img src="https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" alt="GIF" width="128" height="128"/>
-</p>
+
+<div align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Dimas-Ts+project...;Created+by+Dimas-Ts...;frist+Dimas+system+whatsapp+bot...;⚡+Dimas+is+super+speed...)](https://github.com/Dimasts)
 
 
 ## License
