@@ -11,5 +11,5 @@ Dimas Ts
 ![photo](./Foto/nyc-hero-img.jpg)
 
 ## License
-Copyright (c) 2022 Dimas Ts .)
+Copyright (c) 2022 Dimas Ts .
 
