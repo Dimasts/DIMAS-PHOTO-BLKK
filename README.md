@@ -4,3 +4,4 @@ Dimas Ts
 </p>
 
 ![Photo](./responsive photography website/img/nyc-hero-img.jpg)
+![nganu](./src/nganu.png)
