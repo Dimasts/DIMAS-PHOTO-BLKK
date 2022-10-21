@@ -3,4 +3,4 @@ Dimas Ts
 <img src="https://media4.giphy.com/media/jt7bAtEijhurm/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 
-![nganu](./src/nganu.png)
+![photo](./foto/city-1.jpg)
