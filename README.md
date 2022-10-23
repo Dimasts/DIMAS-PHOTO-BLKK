@@ -1,6 +1,8 @@
 Dimas Ts
 
 ![photo](./Foto/kelas.jpg)
+BLKK BUMI PERTIWI BANTARBOLANG 
+19 OKTOBER 2022
 
 ### Connect with me ☎️
 <p align="center">
@@ -9,6 +11,7 @@ Dimas Ts
 
   
 
-## License
-Copyright (c) 2022 Dimas Ts .
+  
+  
+  
 
